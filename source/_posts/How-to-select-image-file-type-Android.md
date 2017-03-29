@@ -1,8 +1,9 @@
 ---
 title: PNG、JPEG、GIF、SVG应该用哪个？
-date: 2016-10-13 21:49
+date: 2016-09-15 21:49
 categories: Android
 toc: true
+cover: /img/pixel.jpg
 ---
 ## Beginning
 当我们构建网站或者开发App的时候，应当怎样选择使用图片的类型呢？

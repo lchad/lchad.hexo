@@ -7,9 +7,14 @@ title: lchad
 subtitle:
 description: Android Developer
 author: lchad
-language: default
+language: en
 timezone:
-avatar: https://pic3.zhimg.com/v2-bffa98de38491ea799ffd9671fead286_is.jpg
+avatar: http://tva1.sinaimg.cn/crop.23.25.62.62.180/b1a9ab5fjw8f7ecyg8eyyj20310350c9.jpg
+favicon: /favicon.ico
+
+auto_excerpt:
+enable: true
+length: 150
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,7 +69,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +77,13 @@ deploy:
   type: git
   repo: git@github.com:lchad/lchad.github.io.git
   branch: master
+
+# Social links
+social:
+  GitHub: https://github.com/lchad
+  Weibo: http://weibo.com/lchad
+  Zhihu: http://www.zhihu.com/people/lchad
+
+creative_commons: by-nc-sa
+
+since: 2015
