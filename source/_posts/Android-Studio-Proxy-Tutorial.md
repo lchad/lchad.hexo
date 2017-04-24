@@ -3,7 +3,6 @@ title: 给Android Studio设置代理
 date: 2015-02-06 18:56
 categories: Android
 toc: true
-cover: /img/studio.jpg
 ---
 Android Studio是基于JetBrains公司的IDEA开发的,Android Studio里的项目都是由Gradle构建的,Gradle集合了Ant和Maven的优点,又解决了他们的缺点,但是它有一个特点还是值得我们注意的.我们每一次点击这个
 <!--more-->

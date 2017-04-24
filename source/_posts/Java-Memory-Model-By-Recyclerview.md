@@ -3,7 +3,6 @@ title: 从RecyclerView的一个bug看Java内存模型
 date: 2016-03-15 23:49
 categories: Java
 toc: true
-cover: /img/android.jpg
 ---
 
 今天在写一个RecyclerView的Demo,大致的状况就是请求网络分页加载数据,解析成bean然后填到列表里,展示瀑布流出来.但是写完之后列表却一直都是空的,但是断点里也能清楚地看到数据解析成功,被设置到了adapter中,反复看了好久,最后还是在同事的指点下,跳出了坑,其实问题是Java引用的问题,我先把错误的代码贴出来.大家观摩一下.

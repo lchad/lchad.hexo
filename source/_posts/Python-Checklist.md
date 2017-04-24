@@ -3,7 +3,6 @@ title: Python语言check list
 date: 2015-01-18 23:48
 categories: Python
 toc: true
-cover: /img/python.jpg
 ---
 
 标准是Python2.7.8版本。内容大多出自`<<Python核心编程第二版>>`.

@@ -3,7 +3,6 @@ title: Genymotion那点事儿
 date: 2016-05-14 01:04
 categories: Android
 toc: true
-cover: /img/genymotion.png
 ---
 `Genymotion`是一款非常好用的Android模拟器.它在Android开发者中使用率估计也是最高的.在我使用Genymotion的一年多时间内,碰到过几个令人蛋疼甚至蛋碎的问题,折腾它也浪费了我很多的精力和时间,所以今天就把使用Genymotion中遇到的问题做一个总结,希望大家尤其是像我一样的新手避免重复踩坑,把尽可能多的精力都花在代码上.
 

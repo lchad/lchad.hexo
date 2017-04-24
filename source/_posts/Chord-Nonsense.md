@@ -3,7 +3,6 @@ title: Chord Nonsense
 date: 2016-07-06 22:47
 categories: Music
 toc: true
-cover: /img/chord.jpg
 ---
 **自然音阶** :
 1 2 3 4 5 6 7

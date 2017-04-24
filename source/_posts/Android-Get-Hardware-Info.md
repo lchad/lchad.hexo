@@ -3,7 +3,6 @@ title: 获取手机的相关硬件信息
 date: 2015-05-09 00:07
 categories: Android
 toc: true
-cover: /img/android.jpg
 ---
 今天在QQ群里聊天,一个哥们在某宝买到了一个运行内存16G的手机,当时我就吓尿了,所以有了写个程序把这个手机的实际内存读出来的想法,于是就有了今天这篇博客.
 <!--more-->
